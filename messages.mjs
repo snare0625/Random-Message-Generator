@@ -1,0 +1,35 @@
+// This file contains messages that are to be generated
+const andrewTateQuotes = [
+    "Life is a game, and only the winners get to play it.",
+  "Hustle like you're broke, even when you're rich.",
+  "Success is the result of relentless effort and unwavering self-belief.",
+  "The world owes you nothing. You have to go out there and take what you want.",
+  "Excuses are the crutches of the weak. Winners find solutions, not excuses.",
+  "Never let anyone's opinion of you become your reality.",
+  "Money is just a tool. It's what you do with it that matters.",
+  "Success doesn't come to those who wait. It comes to those who take massive action.",
+  "Don't wait for the perfect moment; create it.",
+  "Your past doesn't define your future. You have the power to change your destiny.",
+  "Winners focus on winning, while losers focus on winners.",
+  "The harder you work, the luckier you get.",
+  "You can't please everyone. Focus on pleasing yourself and achieving your goals.",
+  "Embrace failure as a stepping stone to success. Learn from it and keep moving forward.",
+  "In a world of followers, be a leader.",
+  "Success is not a destination; it's a lifestyle.",
+  "There's no such thing as luck. Success is the result of preparation meeting opportunity.",
+  "Take risks, because that's where the rewards are.",
+  "Success is not for the entitled; it's for those who are willing to earn it.",
+  "Don't settle for average. Strive for excellence in everything you do.",
+  "Your network is your net worth. Surround yourself with winners.",
+  "Success is not about what you have; it's about who you become.",
+  "Be the person who doesn't just talk about their dreams but makes them a reality.",
+  "The only limits you have are the ones you impose on yourself.",
+  "Failure is not the end; it's an opportunity to grow stronger and wiser.",
+  "Success is not about finding yourself; it's about creating yourself.",
+  "You are the CEO of your own life. Take charge and make it a success story.",
+  "The greatest investment you can make is in yourself.",
+  "Success is not about being the best; it's about being better than you were yesterday.",
+  "Dream big, work hard, and never apologize for your ambition."
+]
+
+export default andrewTateQuotes;
